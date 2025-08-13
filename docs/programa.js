@@ -1,0 +1,1 @@
+Cesium.GeoJsonDataSource.load('Predios_CC.geojson')
